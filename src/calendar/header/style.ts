@@ -15,6 +15,8 @@ export default function (theme: Theme = {}) {
       paddingRight: 10,
       marginTop: 6,
       alignItems: 'center',
+      backgroundColor: "#1B1A28",
+      borderRadius : 20,
     },
     partialHeader: {
       paddingHorizontal: 15
